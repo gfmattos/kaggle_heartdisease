@@ -71,3 +71,15 @@ To access the analysis and modeling please open [`heart_disease notebook`](./not
 | ------- |
 | [0. Libraries](./notebooks/heart_disease.ipynb/#0.-Libraries) |
 | [1. Dataset](./notebooks/heart_disease.ipynb/#1.-Dataset) |
+| [2. Exploratory Analysis](./notebooks/heart_disease.ipynb/#2.-Exploratory-Analysis) |
+| [3. Feature Engineering](./notebooks/heart_disease.ipynb/#3.-Feature-Engineering) |
+| [4. Modeling](./notebooks/heart_disease.ipynb/#4.-Modeling) |
+| [5. Results](./notebooks/heart_disease.ipynb/#5.-Results) |
+
+### **Main Analysis**
+
+### **Modeling Technique Selection**
+
+### **Results Discussion**
+
+### **Extra Contents**
